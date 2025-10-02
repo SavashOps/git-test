@@ -5,5 +5,3 @@ const isLogin = () => {
 const isRegister = () => {
     return true ;
 }
-
-const getMe = () => true ;
